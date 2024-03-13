@@ -1,0 +1,44 @@
+{
+    "files": [
+        {
+            "date": "2024-02-13",
+            "cityDB": "db/GeoLite2-City_20240213/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240213/GeoLite2-ASN.mmdb"
+        },
+        {
+            "date": "2024-02-16",
+            "cityDB": "db/GeoLite2-City_20240216/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240216/GeoLite2-ASN.mmdb"
+        },
+        {
+            "date": "2024-02-20",
+            "cityDB": "db/GeoLite2-City_20240220/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240220/GeoLite2-ASN.mmdb"
+        },
+        {
+            "date": "2024-02-23",
+            "cityDB": "db/GeoLite2-City_20240223/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240223/GeoLite2-ASN.mmdb"
+        },
+        {
+            "date": "2024-02-27",
+            "cityDB": "db/GeoLite2-City_20240227/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240227/GeoLite2-ASN.mmdb"
+        },
+        {
+            "date": "2024-03-01",
+            "cityDB": "db/GeoLite2-City_20240301/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240301/GeoLite2-ASN.mmdb"
+        },
+        {
+            "date": "2024-03-05",
+            "cityDB": "db/GeoLite2-City_20240305/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240305/GeoLite2-ASN.mmdb"
+        },
+        {
+            "date": "2024-03-08",
+            "cityDB": "db/GeoLite2-City_20240308/GeoLite2-City.mmdb",
+            "asnDB": "db/GeoLite2-ASN_20240308/GeoLite2-ASN.mmdb"
+        }
+    ]
+}
