@@ -1,10 +1,13 @@
 const express = require('express');
+const cors = require('cors') 
 const fs = require('fs');
 const Reader = require('@maxmind/geoip2-node').Reader;
 const dbConfigFile = fs.readFileSync('./db-config.json');
 const dbConfigData = JSON.parse(dbConfigFile);
 const app = express();
 const PORT = process.env.PORT || 3000;
+
+app.use(cors())
 
 app.get('/:ip/:date?', (req, res, next) => {
 	const ip = req.params.ip;
